@@ -13,7 +13,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A simple retrieves information from https://money.cnn.com/data/markets/ and prints out a list of the most popular stocks.
+A simple scraper that retrieves information from https://money.cnn.com/data/markets/ and prints out a list of the most popular stocks.
 
 
 
@@ -85,7 +85,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Ahmed Abdelfattah - [@ahmedwab](https://linkedin.com/in/ahmedwab) - linkedin
 
-Project Link: [https://github.com/ahmedwab/Face-detection/](https://github.com/ahmedwab/Stocks-Web-Scraper
+Project Link: [https://github.com/ahmedwab/Stocks-Web-Scraper/](https://github.com/ahmedwab/Stocks-Web-Scraper
 /)
 
 
